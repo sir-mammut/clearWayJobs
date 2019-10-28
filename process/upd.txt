@@ -1,0 +1,3 @@
+$sql = "UPDATE `umyu`.`admin` SET `name` = \'Mhizta Mammut\' WHERE `admin`.`id` = 1;";
+
+
